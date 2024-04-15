@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Cuando no queden más estrellas que contar",
+      "author": "María Martínez",
+      "price": 10,
+      "img": "https://m.media-amazon.com/images/I/51zFYRoBxGS.SY445_SX342.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 2,
+      "name": "XODÓ",
+      "author": "Faty Salinas,Jairo Guerrero",
+      "price": 20,
+      "img": "https://m.media-amazon.com/images/I/31Ocj9LCO4L.SY445_SX342.jpg",
+      "quanty": 1
+    },
+  
+    {
+      "id": 3,
+      "name": "El arte de ser nosotros",
+      "author": "Irma Rubiales",
+      "price": 27,
+      "img": "https://m.media-amazon.com/images/I/41yKu9jbKlL.SY445_SX342.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 4,
+      "name": "La sombra de un engaño",
+      "author": "Collen Hoover",
+      "price": 18,
+      "img": "https://m.media-amazon.com/images/I/41r6eBXWiUL.SY445_SX342.jpg",
+      "quanty":1
+    },
+    {
+        "id": 5,
+        "name": "Nadie tiene que saberlo excepto tú",
+        "author": "Madame G. Rouge",
+        "price": 38,
+        "img": "https://m.media-amazon.com/images/I/413nRdytcaL.SY445_SX342.jpg",
+        "quanty":1
+      }
+  ]
+  
